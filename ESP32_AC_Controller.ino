@@ -4,7 +4,7 @@
 #include <DHT_U.h>
 
 const char* ssid     = "ZHAO-2G";
-const char* password = "zhao6263806577";
+const char* password = "???";
 
 const int HEATPIN = 18; //  connect to white
 const int COOLPIN = 19; //  connect to yellow
